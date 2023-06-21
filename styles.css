@@ -157,7 +157,7 @@
   margin-left: -102.5px;
   top: 224px;
 }
-#area {
+#diagnosis {
   display: block;
   width: 100%;
   clear: both;
@@ -168,6 +168,6 @@
   color: #a5a5a5;
 }
 
-#area #data {
+#diagnosis #data {
   color: black;
 }
